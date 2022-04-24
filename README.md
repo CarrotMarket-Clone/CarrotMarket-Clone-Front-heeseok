@@ -3,7 +3,7 @@
 
 ### 당근마켓 클론 재시작
 - 2022.04.24
->> React 환경 세팅
+> React 환경 세팅
 ```
 npx create-react-app client
 cd client
